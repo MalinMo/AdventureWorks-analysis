@@ -1,7 +1,7 @@
 USE AdventureWorks2025;
 
-SELECT TOP 10 * FROM Sales.SalesTerritory;
-SELECT TOP 10 * FROM Sales.SalesOrderHeader;
+SELECT TOP 5 * FROM Sales.SalesTerritory;
+SELECT TOP 5 * FROM Sales.SalesOrderHeader;
 
 SELECT
     CASE
